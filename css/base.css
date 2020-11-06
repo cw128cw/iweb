@@ -1,7 +1,7 @@
 /* 此文件中包含所有页面都公用的全局css */
 *{
 	/* 选择所有元素 */
-	box-sizing:boder-box;/*边框盒子*/
+	box-sizing:border-box;/*边框盒子*/
 }
 body{
 	margin:0;
