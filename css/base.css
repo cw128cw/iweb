@@ -18,3 +18,9 @@ a{
 a:hover{
 	color:#f60;	
 }
+li{
+	list-style: none;/*清除列表项自动添加的样式*/
+ul{
+	margin: 0;/*清楚浏览器为ul自动添加的样式*/
+	padding: 0;
+}
